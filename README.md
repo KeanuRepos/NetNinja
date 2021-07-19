@@ -6,4 +6,4 @@ This repository contains a list of programs, that i have completed, in the tutor
 React-Redux-app-marioplan URL: https://net-ninja-marioplan-e6f3b.web.app/signin
 
 ### Acknowledgements
-The tutorial series was created by, YouTube creator: The NetNinja. URL: https://youtube.com/playlist?list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG
+The tutorial series was created by, YouTube creator: The NetNinja. URL:(1) https://youtube.com/playlist?list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG (2) (3) https://youtube.com/playlist?list=PL4cUxeGkcC9gGrbtvASEZSlFEYBnPkmff
