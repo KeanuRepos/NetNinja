@@ -1,6 +1,6 @@
 # React-Redux-NetNinja-tutorial-series
 
-This repository contains a list of programs, that i have completed, in the tutorial series: (1) A complete React tutorial (with Redux); 
+This repository contains a list of tutorial programs, i have completed, in the tutorial series: (1) A complete React tutorial (with Redux); 
 (2) Materialized tutorial and (3) React, Redux and Firebase App tutorial. The objective for this series, is to teach the basic concepts, 
 in the React framework (JavaScript library for Frontend Web development), from the ground up. This is integrated with a basic tutorial 
 series, in Redux and Firebase. In addition, the base languages that were of concern are: javascript, html, Materialized css and css.  
